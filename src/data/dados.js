@@ -38,7 +38,7 @@ const casas = [
     fundador: "Godric Gryffindor",
     animal: "Leão",
     cor: "Vermelho e dourado",
-    fantasma: "Sir Nicholas de Mimsy-Porpington (Nick Quase Sem Cabeça)",
+    
   },
   {
     id: 2,
